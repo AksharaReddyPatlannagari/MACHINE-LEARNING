@@ -1,7 +1,7 @@
 # MACHINE-LEARNING
 
 
-COURSES
+#COURSES
 
 https://www.coursera.org/learn/machine-learning/home/welcome -Andrew ng's course -BASICS MAIN PRIORITY
 
@@ -11,7 +11,7 @@ https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-l
 
 https://www.kaggle.com/learn/intro-to-machine-learning -KAGGLE MICRO COURSE -BASICS MAIN PRIORITY
 
-RESOURCES
+#RESOURCES
 
 https://theptrk.files.wordpress.com/2020/02/aicartoons_week_1_5.pdf -HAND DRAWN NOTES FR MACHINE LEARNING
 
@@ -21,6 +21,6 @@ MACHINE LEARNING USING PYTHON BOOK-MAIN PRIORITY FOR READING WHILE FOLLOWING OTH
 
 https://theptrk.com/2020/02/12/notes-for-coursera-ml-course-week-1-5/ -DUDE WHO DOES DRAWINGS CHECK UP FR ANY TOPIC YOU WANT
 
-ROADMAP
+#ROADMAP
 
 https://svpino.com/a-machine-learning-roadmap-c41b0237063c -CHECK UP FR STUFF U CAN LEARN
