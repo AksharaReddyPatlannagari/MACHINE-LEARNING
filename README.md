@@ -25,8 +25,11 @@ MACHINE LEARNING USING PYTHON BOOK-MAIN PRIORITY FOR READING WHILE FOLLOWING OTH
 
 https://theptrk.com/2020/02/12/notes-for-coursera-ml-course-week-1-5/ -DUDE WHO DOES DRAWINGS CHECK UP FR ANY TOPIC YOU WANT
 
+https://www.kaggle.com/discussion/196018 -KAGGLE COMMUNITY POST ABT BEGINNERS PRACTICE
+
 #ROADMAP
 
 
 
 https://svpino.com/a-machine-learning-roadmap-c41b0237063c -CHECK UP FR STUFF U CAN LEARN
+
