@@ -27,6 +27,8 @@ https://theptrk.com/2020/02/12/notes-for-coursera-ml-course-week-1-5/ -DUDE WHO 
 
 https://www.kaggle.com/discussion/196018 -KAGGLE COMMUNITY POST ABT BEGINNERS PRACTICE
 
+https://www.coursera.org/learn/machine-learning/supplement/Mlf3e/more-octave-matlab-resources - MATLAB resources frm the course
+
 #ROADMAP
 
 
