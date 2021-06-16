@@ -29,6 +29,8 @@ https://www.kaggle.com/discussion/196018 -KAGGLE COMMUNITY POST ABT BEGINNERS PR
 
 https://www.coursera.org/learn/machine-learning/supplement/Mlf3e/more-octave-matlab-resources - MATLAB resources frm the course
 
+https://drive.matlab.com/files/1zpmJpAxTE-6ZiaQMbxPZg_2a3d9542a1b14356ba9afe348864a309_machine-learning-ex/machine-learning-ex -MATLAB ASSIGNMENTS FRM THE COURSE
+
 #ROADMAP
 
 
