@@ -13,7 +13,9 @@ https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-l
 
 https://www.kaggle.com/learn/intro-to-machine-learning -KAGGLE MICRO COURSE -BASICS MAIN PRIORITY
 
-#RESOURCES
+https://learn.verzeo.in/courses/take/copy-of-machine-learning-with-python-june-batch/downloads/14119693-python-notes -REFERENCE PRIORITY
+
+## RESOURCES
 
 
 
@@ -31,7 +33,7 @@ https://www.coursera.org/learn/machine-learning/supplement/Mlf3e/more-octave-mat
 
 https://drive.matlab.com/files/1zpmJpAxTE-6ZiaQMbxPZg_2a3d9542a1b14356ba9afe348864a309_machine-learning-ex/machine-learning-ex -MATLAB ASSIGNMENTS FRM THE COURSE
 
-#ROADMAP
+## ROADMAP
 
 
 
