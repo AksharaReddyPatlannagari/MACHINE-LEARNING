@@ -1,4 +1,4 @@
-#DIABETES DATASET USING LINEAR REGRESSION
+# DIABETES DATASET USING LINEAR REGRESSION
 
 This project basically tries to fit a linear regression curve to the dataset.
 The dataset has data related to diabetes patients.
