@@ -8,4 +8,4 @@ Coming to the support vector machines we still donot the reason for more accurac
 But we prefer Logistic regression over the support vector machines for this model as the accuracy rating are really good.
 After doing it with KNN,we have really good results compared to both logistic regression and SVM,but the confusion matrix clearly shows that the logistic regression classifiers more number of stuff perfectly.
 Decision trees also have pretty good results but as we can see from the accuracy scores logistic regression is still the best.
-Random forest gives best performance as per any aspect of accuracy scores it's so far the best model.
+Random forest gives best performance as per any aspect of accuracy scores it's so far the best model,Gradient booster is pretty good too but random forest is clearly the winner.
