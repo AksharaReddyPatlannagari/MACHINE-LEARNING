@@ -9,3 +9,4 @@ If we see the accuracy of the model it luks like we overfit the training data,bt
 Trying ridge regression clealy improved our test set's score,but the overall model is'nt a good fit I'm guessing its either cuz of the data or we have to perform feature engineering,or our model is too simple and it's underfitting.
 Lasso regression is also nt of any use as our model is clearly underfit its not going to work,might actually reduce the efficiency.
 KNN isnt any good either I think it's the dataset problem.
+Decision trees isnt any great either wen it comes to squared mean bt it became more of a generalised model.
