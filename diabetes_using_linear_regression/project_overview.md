@@ -11,4 +11,5 @@ Lasso regression is also nt of any use as our model is clearly underfit its not 
 KNN isnt any good either I think it's the dataset problem.
 Decision trees is worst so far.
 Random forest isn't any help either.
-Data is not good enough maybe
+gradient booster isn't good either.
+Data is not good enough maybe.
