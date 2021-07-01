@@ -15,6 +15,8 @@ https://www.kaggle.com/learn/intro-to-machine-learning -KAGGLE MICRO COURSE -BAS
 
 https://learn.verzeo.in/courses/take/copy-of-machine-learning-with-python-june-batch/downloads/14119693-python-notes -REFERENCE PRIORITY
 
+https://infosysheadstart.onwingspan.com/en/app/toc/lex_auth_012600400790749184237_shared/contents -REFERENCE PRIORITY
+
 ## RESOURCES
 
 
